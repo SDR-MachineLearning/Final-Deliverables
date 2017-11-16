@@ -1,2 +1,1 @@
-# Final-Deliverables
-This is for final ML  deliverables 
+This repository is for Machine Learning project (Kaggle projects).
